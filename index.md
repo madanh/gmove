@@ -1,8 +1,6 @@
 ## GMOVE — a Google maps feature that could relief the climate crisis
 
-Hennadii Madan
-
-Google’s mission is to organize the world’s information. This noble activity has already changed the world in more than one way. Now, when humanity is facing the climate crisis — the biggest challenge in it’s existence, it is exhilarating to discover that Google has unique power to dramatically and rapidly reduce global CO2 emissions and change the fate of humanity, by “purely software means”. Unlike other “green technologies”, there’s no need to wait 10–15–30 years to see the effects, but will start having impact as soon as it is implemented (could be within a year).
+Google’s mission is to organize the world’s information. This noble activity has already changed the world in more than one way. Now, when humanity is facing the climate crisis — the biggest challenge in it’s existence, it is exhilarating to discover that Google has unique power to dramatically and rapidly reduce global $CO_2$ emissions and change the fate of humanity, by “purely software means”. Unlike other “green technologies”, there’s no need to wait 10–15–30 years to see the effects, but will start having impact as soon as it is implemented (could be within a year).
 
 The information that needs to be organized this time is “who is going where (and wants to help with climate crisis)”. And the means to achieve this organization is by adding a single feature to Maps, a product already deployed on billions on smartphones worldwide.
 
