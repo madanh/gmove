@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+$A_1$
+
+$$A_1$$
+
 
 You can use the [editor on GitHub](https://github.com/madanh/gmove/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -20,6 +24,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+$A_1$
 
 **Bold** and _Italic_ and `Code` text
 
