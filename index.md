@@ -143,14 +143,14 @@ Driver is given an option to pick and deliver a package along his course. This o
 
 
 # Credit
-Original idea belongs to Marko Cafnik, who sought to build a monile app implementing a platform for low-latency ride sharing and ad-hoc package delivery. I, Hennadii Madan, figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. So I set to reach decision makers at Google and persuade them to implement this.
+Original idea belongs to Marko Cafnik, who sought to build a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery. I, Hennadii Madan, figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. So I set to reach decision makers at Google and persuade them to implement this.
 
 This is only a draft and calculations above could be improved. If you can add to this document, I welcome pull request and issues on github.
 
 ## Shoutout
 I'd making this a reality to be my fulltime job. If you know a way, please let me know at madanh2014 @ gmail.com 
-<!--
 
+<!--
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
