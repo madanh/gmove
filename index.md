@@ -148,7 +148,7 @@ Original idea belongs to Marko Cafnik, who sought to build a mobile app implemen
 This is only a draft and calculations above could be improved. If you can add to this document, I welcome pull request and issues on github.
 
 ## Shoutout
-I'd making this a reality to be my fulltime job. If you know a way, please let me know at madanh2014 @ gmail.com 
+I'd really want making this a reality to be my fulltime job. If you know a way, please let me know at madanh2014 @ gmail.com 
 
 <!--
 ### Markdown
