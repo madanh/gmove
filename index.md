@@ -63,6 +63,7 @@ I know that this is hyper optimistic, but it gives an impression of the scale of
 ## Outcome definition
 
 Let’s define the best case scenario:
+
 I. A cultural shift is induced and enabled by ‘gmove’. People give priority to this transportation option over driving, taking taxi, Uber or bus.
 
 II. The cultural shift is so profound, that people who otherwise would consider buying a car, choose to rely on ‘gmove’.
@@ -137,12 +138,20 @@ programs.
 Driver is given an option to pick and deliver a package along his course. This one is tricky, since it implies monetary incentives and a separate UI for the package sender. Monetary incentive is quite dangerous, since it may dramatically change the behavior and lead to reduced adoption not only of gpackage but also gmove.
 -->
 
+# "How is this different from other ridesharing apps?"
+Unlike other ridesharing applications there are several differences that enable a completely different scale of participarion and the as a result the huge potential impact on emissions:
 
-## Credit
+1. Maps is already installed on more than a billion devices: no chicken and egg problem.
+2. There's almost zero effort for a driver to use it.
+3. It harnesses the (power of defaults)[https://www.bloomberg.com/opinion/articles/2017-12-28/don-t-underrate-the-power-of-the-default-option]
+4. The latency is much shorter, so it's useful for short rides withtin the city.
+5. There's no explicit monetary incentive. It's not about saving a buck, but about empowering people to make a difference.
+
+# Credit
 Original idea for a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery belongs to Marko Cafnik. I figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. With Marko's blessing I set to reach decision makers at Google and persuade them to implement this.
 
-## This document
+# This document
 This is only a draft and there's a lot of improvement to be done. If you can add to this document, have a comment or a question, please add a pull request or an issue on GitHub (https://github.com/madanh/gmove).
 
-## Shoutout
+# Shoutout
 If you know a way to make this a reality, please let me know at [madanh2014 @ gmail.com](mailto://madanh2014@gmail.com) or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
