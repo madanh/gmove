@@ -22,7 +22,7 @@ rapidly reduce global CO<sub>2</sub>. Unlike other “green technologies”, the
 wait 10–15–30 years to see the effects, but will start having impact as soon as
 it is implemented (could be within a year).
 
-The information that needs to be organized and made accessible this time is “who is going where (and doesn't mind helping with climate crisis)”. And the means to achieve this organization is by adding a single feature to Maps, a product already deployed on billions on smartphones worldwide.
+The information that needs to be organized and made accessible this time is “who is going where (and doesn't mind helping with climate crisis)”. And the means to achieve this organization and access is by adding a single feature to Maps, a product already deployed on billions on smartphones worldwide.
 
 # Description
 
@@ -58,7 +58,7 @@ Other user stories are possible, but this would make this document too long.
 # How much Global CO<sub>2</sub> emissions could be prevented
 
 Here are some upper bound estimates for a certain best case scenario.
-I know that this is hyper optimistic, but it gives an impression of the scale of the potentional impact that could be achieved. As you'll see below it's pretty insane for something that is enabled by "purely software means". I you know how this upper bound could be improved, please share [here](https://github.com/madanh/gmove/issues).
+I know that this is hyper optimistic, but it gives an impression of the scale of the potentional impact that could be achieved. As you'll see below it's pretty insane for something that is enabled by "purely software means". If you know how this upper bound could be improved, please share in an issue [here](https://github.com/madanh/gmove/issues).
 
 ## Outcome definition
 
@@ -143,7 +143,7 @@ Driver is given an option to pick and deliver a package along his course. This o
 # Credit
 Original idea belongs to Marko Cafnik, who sought to build a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery. I, Hennadii Madan, figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. So I set to reach decision makers at Google and persuade them to implement this.
 
-This is only a draft and calculations above could be improved. If you can add to this document or have a comment, please add a pull request or an issue on GitHub (https://github.com/madanh/gmove).
+This is only a draft and there's a lot of improvement to be done. If you can add to this document, have a comment or a question, please add a pull request or an issue on GitHub (https://github.com/madanh/gmove).
 
 ## Shoutout
 If you know a way to make this a reality, please let me know at madanh2014 @ gmail.com or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
