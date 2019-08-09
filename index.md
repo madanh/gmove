@@ -145,42 +145,7 @@ Driver is given an option to pick and deliver a package along his course. This o
 # Credit
 Original idea belongs to Marko Cafnik, who sought to build a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery. I, Hennadii Madan, figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. So I set to reach decision makers at Google and persuade them to implement this.
 
-This is only a draft and calculations above could be improved. If you can add to this document, I welcome pull request and issues on github.
+This is only a draft and calculations above could be improved. If you can add to this document or have a comment, please add a pull request or an issue on GitHub (https://github.com/madanh/gmove).
 
 ## Shoutout
-I'd really want making this a reality to be my fulltime job. If you know a way, please let me know at madanh2014 @ gmail.com 
-
-<!--
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/madanh/gmove/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
--->
+If you know a way to make this a reality, please let me know at madanh2014 @ gmail.com or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
