@@ -14,16 +14,15 @@
 
 ## GMOVE — a Google maps feature that could relief the climate crisis
 
-Google’s mission is to organize the world’s information. This noble activity
+Google’s mission is to organize the world’s information. This activity
 has already changed the world in more than one way. Now, when humanity is
-facing the climate crisis — the biggest challenge in it’s existence, it is
-exhilarating to discover that Google has unique power to dramatically and
-rapidly reduce global CO<sub>2</sub> emissions and change the fate of humanity, by
-“purely software means”. Unlike other “green technologies”, there’s no need to
+facing the climate crisis, it is
+exhilarating to discover that by organizing certain information Google has a unique power to dramatically and
+rapidly reduce global CO<sub>2</sub>. Unlike other “green technologies”, there’s no need to
 wait 10–15–30 years to see the effects, but will start having impact as soon as
 it is implemented (could be within a year).
 
-The information that needs to be organized this time is “who is going where (and wants to help with climate crisis)”. And the means to achieve this organization is by adding a single feature to Maps, a product already deployed on billions on smartphones worldwide.
+The information that needs to be organized and made accessible this time is “who is going where (and doesn't mind helping with climate crisis)”. And the means to achieve this organization is by adding a single feature to Maps, a product already deployed on billions on smartphones worldwide.
 
 # Description
 
@@ -56,11 +55,10 @@ I follow the instructions and pull over at D. I scan Joe’s QR code and we are 
 Other user stories are possible, but this would make this document too long.
 
 
-# How much Global CO<sub>2</sub> emissions may be prevented
-## Best case scenario (upper bound)
+# How much Global CO<sub>2</sub> emissions could be prevented
 
-I know that this is hyper optimistic, but let’s just dream about what could happen. Not immediately, but eventually if we not only provide the means to fill up those empty cars, but also invest into changing the culture. Let’s dream BIG!
-Such estimate could serve as an upper bound on what's possible.
+Here are some upper bound estimates for a certain best case scenario.
+I know that this is hyper optimistic, but it gives an impression of the scale of the potentional impact that could be achieved. As you'll see below it's pretty insane for something that is enabled by "purely software means". I you know how this upper bound could be improved, please share [here](https://github.com/madanh/gmove/issues).
 
 ## Outcome definition
 
@@ -69,7 +67,7 @@ I. A cultural shift is induced and enabled by ‘gmove’. People give priority 
 
 II. The cultural shift is so profound, that people who otherwise would consider buying a car, choose to rely on ‘gmove’.
 
-III. Gpackage (see Additional Features) is adopted.
+<!--III. Gpackage (see Additional Features) is adopted.-->
 
 ## Outcome impact estimation
 ### I.
