@@ -141,9 +141,10 @@ Driver is given an option to pick and deliver a package along his course. This o
 
 
 # Credit
-Original idea belongs to Marko Cafnik, who sought to build a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery. I, Hennadii Madan, figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. So I set to reach decision makers at Google and persuade them to implement this.
+Original idea for a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery belongs to Marko Cafnik. I figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. With Marko's blessing I set to reach decision makers at Google and persuade them to implement this.
 
+# This document
 This is only a draft and there's a lot of improvement to be done. If you can add to this document, have a comment or a question, please add a pull request or an issue on GitHub (https://github.com/madanh/gmove).
 
-## Shoutout
+# Shoutout
 If you know a way to make this a reality, please let me know at madanh2014 @ gmail.com or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
