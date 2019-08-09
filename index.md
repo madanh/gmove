@@ -143,7 +143,7 @@ Unlike other ridesharing applications there are several differences that enable 
 
 1. Maps is already installed on more than a billion devices: no chicken and egg problem.
 2. There's almost zero effort for a driver to use it.
-3. It harnesses the (power of defaults)[https://www.bloomberg.com/opinion/articles/2017-12-28/don-t-underrate-the-power-of-the-default-option]
+3. It harnesses the [power of defaults](https://www.bloomberg.com/opinion/articles/2017-12-28/don-t-underrate-the-power-of-the-default-option)
 4. The latency is much shorter, so it's useful for short rides withtin the city.
 5. There's no explicit monetary incentive. It's not about saving a buck, but about empowering people to make a difference.
 
@@ -151,7 +151,7 @@ Unlike other ridesharing applications there are several differences that enable 
 Original idea for a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery belongs to Marko Cafnik. I figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. With Marko's blessing I set to reach decision makers at Google and persuade them to implement this.
 
 # This document
-This is only a draft and there's a lot of improvement to be done. If you can add to this document, have a comment or a question, please add a pull request or an issue on GitHub (https://github.com/madanh/gmove).
+This is only a draft and there's a lot of improvement to be done. If you can add to this document, have a comment or a question, please add a pull request or an issue on [GitHub](https://github.com/madanh/gmove).
 
 # Shoutout
 If you know a way to make this a reality, please let me know at [madanh2014 @ gmail.com](mailto://madanh2014@gmail.com) or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
