@@ -8,3 +8,6 @@ Please chime in with comments (by adding an issue) and corrections/improvements/
 Peace, 
 
 Hennadii
+
+## Useful links
+https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/
