@@ -145,4 +145,4 @@ Original idea for a mobile app implementing a platform for low-latency ride shar
 This is only a draft and there's a lot of improvement to be done. If you can add to this document, have a comment or a question, please add a pull request or an issue on GitHub (https://github.com/madanh/gmove).
 
 ## Shoutout
-If you know a way to make this a reality, please let me know at madanh2014 @ gmail.com or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
+If you know a way to make this a reality, please let me know at [madanh2014 @ gmail.com](mailto://madanh2014@gmail.com) or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
