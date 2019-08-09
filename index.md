@@ -12,7 +12,7 @@
 </script>
 
 
-## GMOVE — a Google maps feature that could relief the climate crisis
+# GMOVE — a Google maps feature that could relief the climate crisis
 
 Google’s mission is to organize the world’s information. This activity
 has already changed the world in more than one way. Now, when humanity is
@@ -122,7 +122,7 @@ III.
 
 I don’t quantify this contribution because it would be a fraction of the remaining emissions from transportation and would be negligible compared to I and II
 -->
-
+<!--
 # Additional features
 
 This list is nowhere near being exhaustive and is just something that I actually bothered to write down.
@@ -133,18 +133,16 @@ display it when the driver plans the trip and after its completion . This might
 incentivize some users. It also adds a base for possible future rewards
 programs.
 
-<!--
-
 ## Gpackage
 Driver is given an option to pick and deliver a package along his course. This one is tricky, since it implies monetary incentives and a separate UI for the package sender. Monetary incentive is quite dangerous, since it may dramatically change the behavior and lead to reduced adoption not only of gpackage but also gmove.
 -->
 
 
-# Credit
+## Credit
 Original idea for a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery belongs to Marko Cafnik. I figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. With Marko's blessing I set to reach decision makers at Google and persuade them to implement this.
 
-# This document
+## This document
 This is only a draft and there's a lot of improvement to be done. If you can add to this document, have a comment or a question, please add a pull request or an issue on GitHub (https://github.com/madanh/gmove).
 
-# Shoutout
+## Shoutout
 If you know a way to make this a reality, please let me know at madanh2014 @ gmail.com or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
