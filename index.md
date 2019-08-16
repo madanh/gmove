@@ -156,6 +156,8 @@ This is only a draft and there's a lot of improvement to be done. If you can add
 # Shoutout
 If you know a way to make this a reality, please let me know at [madanh2014 @ gmail.com](mailto://madanh2014@gmail.com) or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
 
+# Watch our progress
+**Subscribe to gmove email updates to see every step of this becoming a reality:**
 <script type="text/javascript">var submitted=false;</script>
 <iframe 
   name="hidden_iframe" 
@@ -167,7 +169,7 @@ If you know a way to make this a reality, please let me know at [madanh2014 @ gm
   method="POST" 
 target="hidden_iframe"
 onsubmit="submitted=true;">
-<input id="fullname" type="text" name="entry.1562471818" placeholder="Name">
-<input id="emailaddress" type="email" name="entry.1812959795" placeholder="Email">
+<input id="fullname" type="text" name="entry.1562471818" placeholder="Your Name">
+<input id="emailaddress" type="email" name="entry.1812959795" placeholder="Your Best Email">
 <input id="subscribe" type="submit" value="submit">
 </form>
