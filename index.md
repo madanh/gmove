@@ -170,6 +170,6 @@ If you know a way to make this a reality, please let me know at [madanh2014 @ gm
 target="hidden_iframe"
 onsubmit="submitted=true;">
 <input id="fullname" type="text" name="entry.329081223" placeholder="Your Name">
-<input id="emailaddress" type="email" name="entry.2068053008" placeholder="Your Best Email">
+<input id="emailaddress" type="email" name="entry.2068053008" placeholder="Your Best Email" required>
 <input id="subscribe" type="submit" value="submit">
 </form>
