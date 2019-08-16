@@ -165,11 +165,11 @@ If you know a way to make this a reality, please let me know at [madanh2014 @ gm
   style="display:none;" 
   onload="if(submitted) {window.location = 'https://madanh.github.io/gmove/';}">
 </iframe>
-<form id="subscribeForm"     action="https://docs.google.com/forms/d/e/1FAIpQLScR0jvGLdJnbhA3vvvsagpmMZncqitlsY_at8wWVEjoRO3TVw/formResponse" 
+<form id="subscribeForm"     action="https://docs.google.com/forms/d/e/1FAIpQLSdC9RhAwwmfDk7TMexN_3eHhiPAJuvBHDZm09x6c4t9mX7gMg/formResponse" 
   method="POST" 
 target="hidden_iframe"
 onsubmit="submitted=true;">
-<input id="fullname" type="text" name="entry.1562471818" placeholder="Your Name">
-<input id="emailaddress" type="email" name="entry.1812959795" placeholder="Your Best Email">
+<input id="fullname" type="text" name="entry.329081223" placeholder="Your Name">
+<input id="emailaddress" type="email" name="entry.2068053008" placeholder="Your Best Email">
 <input id="subscribe" type="submit" value="submit">
 </form>
