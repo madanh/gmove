@@ -155,3 +155,19 @@ This is only a draft and there's a lot of improvement to be done. If you can add
 
 # Shoutout
 If you know a way to make this a reality, please let me know at [madanh2014 @ gmail.com](mailto://madanh2014@gmail.com) or [raise an issue on GitHub](https://github.com/madanh/gmove/issues).
+
+<script type="text/javascript">var submitted=false;</script>
+<iframe 
+  name="hidden_iframe" 
+  id="hidden_iframe" 
+  style="display:none;" 
+  onload="if(submitted) {window.location = 'https://madanh.github.io/gmove/';}">
+</iframe>
+<form id="subscribeForm"     action="https://docs.google.com/forms/d/e/1FAIpQLScR0jvGLdJnbhA3vvvsagpmMZncqitlsY_at8wWVEjoRO3TVw/formResponse" 
+  method="POST" 
+target="hidden_iframe"
+onsubmit="submitted=true;">
+<input id="fullname" type="text" name="entry.1562471818" placeholder="Name">
+<input id="emailaddress" type="email" name="entry.1812959795" placeholder="Email">
+<input id="subscribe" type="submit" value="submit">
+</form>
