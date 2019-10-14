@@ -138,7 +138,9 @@ programs.
 Driver is given an option to pick and deliver a package along his course. This one is tricky, since it implies monetary incentives and a separate UI for the package sender. Monetary incentive is quite dangerous, since it may dramatically change the behavior and lead to reduced adoption not only of gpackage but also gmove.
 -->
 
-# "How is this different from other ridesharing apps?"
+# FAQ
+
+## "How is this different from other ridesharing apps?"
 Unlike other ridesharing applications there are several differences that enable a completely different scale of participarion and the as a result the huge potential impact on emissions:
 
 1. Maps is already installed on more than a billion devices: no chicken and egg problem.
@@ -146,6 +148,14 @@ Unlike other ridesharing applications there are several differences that enable 
 3. It harnesses the [power of defaults](https://www.bloomberg.com/opinion/articles/2017-12-28/don-t-underrate-the-power-of-the-default-option)
 4. The latency is much shorter, so it's useful for short rides withtin the city.
 5. There's no explicit monetary incentive. It's not about saving a buck, but about empowering people to make a difference.
+
+## "What about security?""
+There are several measures that could be implemented.
+First the parties have to consent to position tracking for the duration of the trip, and personally identifying  information storage for  certain period after the trip, before they can use the service.
+When a person gets into the car both parties would be informed that in case there is a detour or a large delay, the system will automatically call local police and transfer their location and personal data to them. And, of course, the system would do exactly that.
+Just the pop-up with these rules is likely to discourage any undesired behaviors.
+
+
 
 # Credit
 Original idea for a mobile app implementing a platform for low-latency ride sharing and ad-hoc package delivery belongs to Marko Cafnik. I figured that it would take ages to for that app to come into use and it would be much better for the humanity if Google were to implement it in Maps. With Marko's blessing I set to reach decision makers at Google and persuade them to implement this.
