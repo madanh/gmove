@@ -141,7 +141,7 @@ Driver is given an option to pick and deliver a package along his course. This o
 # FAQ
 
 ## "How is this different from other ridesharing apps?"
-Unlike other ridesharing applications there are several differences that enable a completely different scale of participarion and the as a result the huge potential impact on emissions:
+Unlike other ridesharing applications there are several differences that enable a completely different scale of participarion and, as the result, huge potential impact on emissions:
 
 1. Maps is already installed on more than a billion devices: no chicken and egg problem.
 2. There's almost zero effort for a driver to use it.
